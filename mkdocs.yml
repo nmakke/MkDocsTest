@@ -1,7 +1,7 @@
 site_name: My Docs
 site_url: https://github.com/nmakke/MkDocsTest/
 theme:
-  name: material
+  name: mkdocs
 nav:
     - Home: index.md
     - Article: article.md
