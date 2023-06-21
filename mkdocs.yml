@@ -1,5 +1,8 @@
 site_name: My Docs
 site_url: https://github.com/nmakke/MkDocsTest/
+
+repo_url: https://github.com/nmakke/MkDocsTest/
+
 theme:
   name: material
 nav:
