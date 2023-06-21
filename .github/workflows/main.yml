@@ -4,6 +4,9 @@ on:
     branches:
       - main
 jobs:
+  permissions:
+    issues: write
+    pull-requests: write
   deploy:
     runs-on: ubuntu-latest
     steps:
