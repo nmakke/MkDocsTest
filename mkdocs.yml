@@ -7,7 +7,6 @@ theme:
   name: material
 nav:
     - Home: index.md
-    - Article: article.md
-    - Recent: recent.md
     - About: about.md
-    - Contribute: contribute.md
+    - Methods: methods.md
+    - Datasets: datasets.md
