@@ -18,6 +18,9 @@ extra_javascript:
 markdown_extensions:
   - mdx_math
 
+markdown_extensions:
+  - attr_list
+
 theme:
   name: material
   features:
