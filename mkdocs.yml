@@ -11,6 +11,13 @@ nav:
     - Methods: methods.md
     - Datasets: datasets.md
 
+plugins:
+  - search
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+  - mdx_math
+
 theme:
   name: material
   features:
