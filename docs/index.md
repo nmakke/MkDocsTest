@@ -1,21 +1,9 @@
-<details>
-<summary><mark><font color=darkblue> **RLbsed**</font color=red></mark></summary>
-<p>
- ```
+\<details>
+ <p>
+<summary><mark><font color=darkblue> Header </font color=red></mark></summary>
   * [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
   * [Deep Learning and its Application to LHC Physics](https://arxiv.org/abs/1806.11484) [[DOI](https://doi.org/10.1146/annurev-nucl-101917-021019)]
-```
-</p>
-</details>
-
-<details>
-<summary>
-  
-# Header
-</summary>
-* [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
-* [Deep Learning and its Application to LHC Physics](https://arxiv.org/abs/1806.11484) [[DOI](https://doi.org/10.1146/annurev-nucl-101917-021019)]
-<p>
+ <p>
 </details>
 
 # Welcome to My Docs
