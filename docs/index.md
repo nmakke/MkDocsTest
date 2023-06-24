@@ -16,13 +16,14 @@ const expandElements = shouldExpand => {
 </script>
 
 <details>
-<summary><mark><font color=darkred>Android Node Tree</font></mark>
+<summary><mark><font color=darkblue>Test expandable section</font></mark>
 </summary>
 <p>
 
 ```xml
 
- <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+TEST ETS 
+ <!--<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>-->
 
 ```
 
