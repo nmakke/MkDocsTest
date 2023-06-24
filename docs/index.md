@@ -1,16 +1,8 @@
 <details>
-<summary><mark><font color=darkblue>## RL-based</font color=red></mark></summary>
-<p> 
-   * [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
-   * [Deep Learning and its Application to LHC Physics](https://arxiv.org/abs/1806.11484) [[DOI](https://doi.org/10.1146/annurev-nucl-101917-021019)]
-   * [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876) [[DOI](https://doi.org/10.1088/1742-6596/1085/2/022008)]
-   * [Machine learning at the energy and intensity frontiers of particle physics](https://doi.org/10.1038/s41586-018-0361-2)
-   * [Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563) [[DOI](https://doi.org/10.1103/RevModPhys.91.045002)]
-   * [Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245) [[DOI](https://doi.org/10.1142/S0217751X19300199)]
-   * [Modern Machine Learning and Particle Physics](https://arxiv.org/abs/2103.12226)
-   * [Machine Learning in the Search for New Fundamental Physics](https://arxiv.org/abs/2112.03769)
-   * [Artificial Intelligence and Machine Learning in Nuclear Physics](https://arxiv.org/abs/2112.02309)
-   * [Snowmass 2021 Computational Frontier CompF03 Topical Group Report: Machine Learning](https://arxiv.org/abs/2209.07559)
+<summary><mark><font color=darkblue> **RLbsed**</font color=red></mark></summary>
+<p>
+  * [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
+  * [Deep Learning and its Application to LHC Physics](https://arxiv.org/abs/1806.11484) [[DOI](https://doi.org/10.1146/annurev-nucl-101917-021019)]
 </p>
 </details>
 
@@ -41,7 +33,7 @@ Given a data set **$\mathcal{D} =(x_i,f(x_i))_{i=1}^{n}$**, the goal is to learn
 
 ??? example "Modern reviews"
     <div class="meta_for_parser tablespecs"
-    style="font-size: 1pt;visibility:hidden" markdown>
+    style="font-size: 1pt;visibility:hidden; color=darkerblue" markdown>
     ###  Modern reviews
     </div>
 
