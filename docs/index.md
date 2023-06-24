@@ -1,4 +1,4 @@
-\<details>
+<details>
  <p>
 <summary><mark><font color=darkblue> Header </font color=red></mark></summary>
   * [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
