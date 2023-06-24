@@ -15,6 +15,20 @@ const expandElements = shouldExpand => {
 };
 </script>
 
+<details>
+<summary><mark><font color=darkred>Android Node Tree</font></mark>
+</summary>
+<p>
+
+```xml
+
+ <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+```
+
+</p>
+</details>
+
 # Welcome to My Docs
 
 This is the front page of My Docs.
