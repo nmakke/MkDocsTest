@@ -1,4 +1,4 @@
-
+# Regression-based SR
   
 ??? note "Linear approach"
     
@@ -14,7 +14,7 @@
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-* **Expression tree-based approaches** 
+# **Expression tree-based approaches** 
 
 ??? note "Genetic programming"
 
