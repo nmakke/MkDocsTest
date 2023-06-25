@@ -1,3 +1,7 @@
+??? success
+   Content.
+   Content2.
+  
   <details>
     <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
     <!-- have to be followed by an empty line! -->
