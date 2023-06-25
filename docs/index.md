@@ -11,10 +11,10 @@
     * [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876) [[DOI](https://doi.org/10.1088/1742-6596/1085/2/022008)]
 
 
-??? success
+??? example "success"
 
--    Content.
--    Content2.
+    -    Content.
+    -    Content2.
   
   <details>
     <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
