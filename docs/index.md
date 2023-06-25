@@ -1,6 +1,6 @@
 
 
-??? example "success"
+??? note "success"
 
     -    Content.
     -    Content2.
