@@ -14,7 +14,24 @@ A bit more than normal indentation is necessary to get the nesting correct,
 * and continued non-nested
 
   </details>
-</details>
+
+
+  <details>
+    <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
+    <!-- have to be followed by an empty line! -->
+
+A bit more than normal indentation is necessary to get the nesting correct,
+ 1. list
+ 1. with
+    1. nested
+    1. items
+        ```java
+        // including code
+        ```
+    1. blocks
+ 1. and continued non-nested
+
+  </details>
 
 
 # Welcome to My Docs
