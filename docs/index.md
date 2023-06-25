@@ -3,15 +3,15 @@
     <!-- have to be followed by an empty line! -->
 
 A bit more than normal indentation is necessary to get the nesting correct,
- 1. list
- 1. with
-    1. nested
-    1. items
+* list
+* with
+    * nested
+    * items
         ```java
         // including code
         ```
-    1. blocks
- 1. and continued non-nested
+  * blocks
+* and continued non-nested
 
   </details>
 </details>
