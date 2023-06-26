@@ -5,13 +5,13 @@ hide:
 
 # A Living Review of Symbolic Regression
 
-Symbolic regression (SR) is a rapidly-growing subfield of machine learning that aims to learn the analytical form of underlying models in data by searching the space of mathematical expressions. A growing interest in SR is taking place in the artificial intelligence community because it promotes interpretability, which is critical for safe AI applications. 
+Symbolic regression (SR) is a rapidly-growing subfield of machine learning that aims to learn the analytical form of underlying models in data by searching the space of mathematical expressions. A growing interest in SR is taking place in the AI community because it promotes interpretability, which is critical for safe AI applications. 
 
-This note aims to collect references for SR [methods](#SRMethods) and [datasets](#datasets) as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "**Interpretable Scientific Discovery with Symbolic Regression: A Review**". The reviews state-of-the-art methods of applications of SR, along with existing datasets usually used in testing SR methods, and discusses their main strength and weakness.
+This note aims to collect references for state-of-the-art methods of symbolic regression and its applications as part of the recent [review](https://arxiv.org/abs/2211.10873) entitled "***Interpretable Scientific Discovery with Symbolic Regression: A Review***". It also reviews available datasets for training and testing tasks. The goal is to list all research works on symbolic regression, so it is expected that *this list will continue to evolve*. This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/).
 
 <!-- [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription) -->
 
-This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression, so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer review) to decide.
+<!--This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression, so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer review) to decide.-->
 
 ## **SR Methods**
 
