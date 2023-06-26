@@ -3,9 +3,9 @@ hide:
   - navigation
 ---
 
-## Methods 
+## SR Methods 
 
-### Regression-based SR
+### Regression
   
 ??? note "Linear approach"
     
@@ -21,7 +21,7 @@ hide:
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-### Expression tree-based approaches
+### Expression tree
 
 ??? note "Genetic programming"
 
@@ -46,16 +46,18 @@ hide:
     * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
-* **Physics-inspired**
+### Others
+
+??? note "Physics-inspired"
 
   * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
 
-* **Mathematics-inspired**
+??? note "Mathematics-inspired"
 
   * [Demystifying Black-box Models with
 Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [[DOI]](https://papers.nips.cc/paper_files/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
 
-* **Computational approach**
+??? note "Computational approach"
 
     * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
 
