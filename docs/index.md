@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Methods 
+## Methods 
 
 ### Regression-based SR
   
