@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# A Living Review of Symbolic Regression
+# **A Living Review of Symbolic Regression**
 
 Symbolic regression (SR) is a rapidly-growing subfield of machine learning that aims to learn the analytical form of underlying models in data by searching the space of mathematical expressions. A growing interest in SR is taking place in the AI community because it promotes interpretability, which is critical for safe AI applications. 
 
