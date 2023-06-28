@@ -10,7 +10,8 @@ Expression tree-based algorithms treat mathematical equations as unary-binary tr
 ## Regression
   
 ???+ note "Linear approach"
-    <div>
+    <div 
+    style="visibility:hidden" markdown>
     ##  Linear approach
     </div>
 
