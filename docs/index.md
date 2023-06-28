@@ -13,7 +13,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 <!-- This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression, so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer review) to decide. -->
 
-??? note "SR Methods"
+## ??? note "SR Methods"
 
     ### Regression-based
         
