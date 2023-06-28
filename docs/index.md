@@ -15,7 +15,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 ???+ note "SR Methods"
 
-    ### Regression
+    ### Regression-based
         
     ??? note "Linear approach"
         
@@ -31,7 +31,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
         * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
         * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-    ### Expression tree
+    ### Expression tree-based
     
     ??? note "Genetic programming"
     
@@ -73,42 +73,42 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 ???+ "Applications"
 
-  ??? note "Physics-related"
+    ??? note "Physics-related"
 
-    * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
-    * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
-    * [Rediscovering orbital mechanics with machine learning](https://arxiv.org/abs/2202.02306)
-    * [Back to the Formula -- LHC Edition](https://arxiv.org/abs/2109.10414)
-    * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
+      * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
+      * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
+      * [Rediscovering orbital mechanics with machine learning](https://arxiv.org/abs/2202.02306)
+      * [Back to the Formula -- LHC Edition](https://arxiv.org/abs/2109.10414)
+      * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
-  ??? note "Benchmark"
+    ??? note "Benchmark"
 
-    * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
+      * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
 
 
 ???+ note "SR Datasets"
 
-  ??? note "success"
-
-    -    Content.
-    -    Content2.
+    ??? note "success"
   
-  <details>
-    <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
-    <!-- have to be followed by an empty line! -->
-
-A bit more than normal indentation is necessary to get the nesting correct,
-* list
-* with
-    * nested
-    * items
-        ```java
-        // including code
-        ```
-  * blocks
-* and continued non-nested
-
-  </details>
+      -    Content.
+      -    Content2.
+    
+    <details>
+      <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
+      <!-- have to be followed by an empty line! -->
+  
+  A bit more than normal indentation is necessary to get the nesting correct,
+  * list
+  * with
+      * nested
+      * items
+          ```java
+          // including code
+          ```
+    * blocks
+  * and continued non-nested
+  
+    </details>
 
 
 <details>
