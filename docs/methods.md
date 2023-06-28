@@ -7,9 +7,13 @@ Symbolic regression methods are grouped into different categories in an as usefu
 Regression-based algorithms solve SR problem as a system of linear equations in the linear approach, or use a multi-layer perceptron (MLP) in the non-linear approach. This category assumes a fixed model structure of the SR problem. 
 Expression tree-based algorithms treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions) and terminal nodes are constants and state variables.
 
-### Regression
+## Regression
   
 ???+ note "Linear approach"
+    <div>
+    ##  Linear approach
+    </div>
+
     
     * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
     * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
