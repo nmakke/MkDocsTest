@@ -12,7 +12,7 @@ Expression tree-based algorithms treat mathematical equations as unary-binary tr
 ???+ note "Linear approach"
     <div 
     style="visibility:hidden" markdown>
-    ##  Linear approach
+    ###  Linear approach
     </div>
 
     
