@@ -90,11 +90,11 @@ This note aims to collect references for state-of-the-art methods of symbolic re
   
     Data sets can be categorized into two main groups:
   
-        **Synthetic data**  for which analytical form of underlying model is known, and used to generate data points. <br>
-        Example: $f(x) = 2x^2 + \cos(x)$, $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$
-        
-        **Real-world data** for which underlying model is unknown.<br>
-        $\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
+    **Synthetic data**  for which analytical form of underlying model is known, and used to generate data points. <br>
+    Example: $f(x) = 2x^2 + \cos(x)$, $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$
+    
+    **Real-world data** for which underlying model is unknown.<br>
+    $\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
         
     | Category | reference | # equations | year |
     | -------- | ------- | ------- | ----- 
