@@ -69,7 +69,7 @@ Expression tree-based algorithms treat mathematical equations as unary-binary tr
     * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
-### Others
+## Others
 
 ???+ note "Physics-inspired"
     <div class="meta_for_parser tablespecs"
