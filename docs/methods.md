@@ -3,7 +3,9 @@ hide:
   - navigation
 ---
 
-Symbolic regression methods are grouped in different categories in a useful and simple manner. 
+Symbolic regression methods are grouped into different categories in an as useful and simple manner as possible.
+Regression-based algorithms solve SR problem as a system of linear equations in the linear approach, or use a multi-layer perceptron (MLP) in the non-linear approach. This category assumes a fixed model structure of the SR problem. 
+Expression tree-based algorithms treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions) and terminal nodes are constants and state variables.
 
 ### Regression
   
