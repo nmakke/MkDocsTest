@@ -14,6 +14,10 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 <!-- This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression, so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer review) to decide. -->
 
 ??? note "SR Methods"
+<div class="meta_for_parser tablespecs"
+style="font-size: 1pt;visibility:hidden" markdown>
+# Methods  
+</div>
 
     ## Regression-based
         
@@ -104,6 +108,10 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 
 ??? "SR Applications in physics"
+<div class="meta_for_parser tablespecs"
+style="font-size: 1pt;visibility:hidden" markdown>
+# Applications  
+</div>
 
       * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
       * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
@@ -117,9 +125,11 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 
 ??? note "SR Datasets"
+<div class="meta_for_parser tablespecs"
+style="font-size: 1pt;visibility:hidden" markdown>
+# Datasets  
+</div>
 
-    ### Datasets
-  
       Data sets can be categorized into two main groups:
     
       **Synthetic data**  for which analytical form of underlying model is known, and used to generate data points. <br>
