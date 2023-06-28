@@ -17,20 +17,20 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
     ## Regression-based
         
-      ??? note "Linear approach"
-      <div class="meta_for_parser tablespecs"
-      style="font-size: 1pt;visibility:hidden" markdown>
-      ###  Linear approach
-      </div>
+    ??? note "Linear approach"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  Linear approach
+    </div>
+      
+        * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
+        * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
         
-          * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
-          * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
-          
-      ??? note "Non-linear approaches"
-      <div class="meta_for_parser tablespecs"
-      style="font-size: 1pt;visibility:hidden" markdown>
-      ###  Non-linear approach
-      </div>
+    ??? note "Non-linear approaches"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  Non-linear approach
+    </div>
         
           * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
           * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
@@ -41,11 +41,11 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
     ## Expression tree-based
     
-      ??? note "Genetic programming"
-      <div class="meta_for_parser tablespecs"
-      style="font-size: 1pt;visibility:hidden" markdown>
-      ###  Genetic programming
-      </div>
+    ??? note "Genetic programming"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  Genetic programming
+    </div>
     
            * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
            * [PySR: High-Performance Symbolic Regression in Python and Julia](https://github.com/MilesCranmer/pysr)
