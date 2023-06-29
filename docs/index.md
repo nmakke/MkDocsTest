@@ -29,7 +29,11 @@ This is a test
           * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
           
     ??? note "Non-linear approaches"
-    
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Non-linear approach
+        </div>
+        
         * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
         * [Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery](https://arxiv.org/pdf/1912.04825.pdf)
         * [Symbolic regression for scientific discovery: an application to wind speed forecasting](https://arxiv.org/pdf/2102.10570.pdf)
@@ -40,7 +44,11 @@ This is a test
     ## Expression tree-based
     
     ??? note "Genetic programming"
-    
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Genetic programming
+        </div>
+        
          * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
          * [PySR: High-Performance Symbolic Regression in Python and Julia](https://github.com/MilesCranmer/pysr)
          * Genetic programming as a means for programming computers by natural selection [[DOI]](https://link.springer.com/article/10.1007/BF00175355)
@@ -50,7 +58,11 @@ This is a test
          * Semantically-based crossover in genetic programming: application to real-valued symbolic regression [[DOI]](https://link.springer.com/article/10.1007/s10710-010-9121-2)
 
     ??? note "Reinforcement learning"
-    
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Reinforcement learning
+        </div>
+        
           * [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://arxiv.org/abs/1912.04871) [[DOI]](https://openreview.net/forum?id=m5Qsh0kBQG) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)
           * [Symbolic Regression via Neural-Guided Genetic Programming Population Seeding](https://arxiv.org/abs/2111.00053) [[DOI]](https://proceedings.neurips.cc/paper/2021/hash/d073bb8d0c47f317dd39de9c9f004e9d-Abstract.html)[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)
           * [Physical Symbolic Optimization](https://arxiv.org/pdf/2303.03192.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/WassimTenachi/PhySO/tree/main)
