@@ -69,19 +69,11 @@ This is a test
         * [Demystifying Black-box Models with Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [[DOI]](https://papers.nips.cc/paper_files/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
       
     ??? note "Computational approach"
-    <div class="meta_for_parser tablespecs"
-    style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Computational approach
-    </div>
     
         * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
 
 
 ??? "SR Applications in physics"
-<div class="meta_for_parser tablespecs"
-style="font-size: 1pt;visibility:hidden" markdown>
-# Applications  
-</div>
 
       * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
       * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
@@ -95,10 +87,6 @@ style="font-size: 1pt;visibility:hidden" markdown>
 
 
 ??? note "SR Datasets"
-<div class="meta_for_parser tablespecs"
-style="font-size: 1pt;visibility:hidden" markdown>
-# Datasets  
-</div>
 
       Data sets can be categorized into two main groups:
     
