@@ -3,11 +3,11 @@ hide:
   - navigation
 ---
 
-Symbolic regression methods are grouped into different categories in an as useful and simple manner as possible.
+Symbolic regression methods are grouped into different categories to be most useful.
 Regression-based SR methods predefine a model structure. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to learn the models' parameters.
 Expression tree-based algorithms treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises genetic programming, reinforcement learning-based SR, and transformer NN-based SR. The last category includes other techniques, such as physics and mathematics-related methods to solve SR problem.
 
-## Regression
+## Regression-based SR
   
 ???+ note "Linear approach"
     <div class="meta_for_parser tablespecs"
@@ -31,7 +31,7 @@ Expression tree-based algorithms treat mathematical equations as unary-binary tr
     * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
     * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-## Expression tree
+## Expression tree-based SR
 
 ???+ note "Genetic programming"
     <div class="meta_for_parser tablespecs"
@@ -68,7 +68,7 @@ Expression tree-based algorithms treat mathematical equations as unary-binary tr
     * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
-## Others
+## Others SR approaches
 
 ???+ note "Physics-inspired"
     <div class="meta_for_parser tablespecs"
