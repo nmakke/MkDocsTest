@@ -3,9 +3,8 @@ hide:
   - navigation
 ---
 
-Symbolic regression methods are grouped into different categories in an as useful and simple manner as possible.
-sr
-Regression-based assumes a fixed model structure of the SR problem, where the linear approach formulate the SR problem as a system of linear equations, and the non-linear approach relies on multi-layer perceptron (MLP) to learn models' parameters. 
+Symbolic regression methods are grouped into different categories in an as useful and simple manner as possible.<br>
+Regression-based SR methods predefine a model structure. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to learn the models' parameters.<br>
 Expression tree-based algorithms treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions) and terminal nodes are constants and state variables.
 
 ## Regression
