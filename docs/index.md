@@ -77,16 +77,44 @@ This is a test
     ## Others
     
     ??? note "Physics-inspired"
-    
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Physics-inspired
+        </div>
+        
         * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
       
     ??? note "Mathematics-inspired"
-    
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Mathematics-inspired
+        </div>
+        
         * [Demystifying Black-box Models with Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [[DOI]](https://papers.nips.cc/paper_files/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
       
     ??? note "Computational approach"
+        <div class="meta_for_parser tablespecs"
+        style="font-size: 1pt;visibility:hidden" markdown>
+        ###  Computational approach
+        </div>    
     
         * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
+
+??? note "SR Datasets"
+    
+    Data sets can be categorized into two main groups:
+    
+    **Synthetic data**  for which analytical form of underlying model is known, and used to generate data points. <br>
+    Example: $f(x) = 2x^2 + \cos(x)$, $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$
+    
+    **Real-world data** for which underlying model is unknown.<br>
+    $\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
+        
+    | Category | reference | # equations | year |
+    | -------- | ------- | ------- | ----- 
+    | Physics-related | [Strogatz repositery](https://williamlacava.com/ode-strogatz/) <br> [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) | 10 <br> 120 | 2011 <br> 2019 |
+    | Mathematics-related | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
+    | Real-world problems | [link](https://epistasislab.github.io/pmlb/) | 
 
 
 ??? "SR Applications in physics"
