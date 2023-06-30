@@ -6,7 +6,7 @@ hide:
 Symbolic regression (SR) methods are grouped into different categories to be most useful.<br>
   **Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<br>
   **Expression tree-based** SR methods treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>
-  **other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.
+  **Other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.
 
 ## Regression-based SR
   
@@ -69,7 +69,7 @@ Symbolic regression (SR) methods are grouped into different categories to be mos
     * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
     * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
-## Others SR approaches
+## Other SR approaches
 
 ???+ note "Physics-inspired"
     <div class="meta_for_parser tablespecs"
