@@ -15,7 +15,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 ??? note "SR Methods"
 
-    ## Regression-based
+  ## Regression-based
         
     ??? note "Linear approach"
         <div class="meta_for_parser tablespecs"
@@ -39,7 +39,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
         * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
         * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-    ## Expression tree-based
+  ## Expression tree-based
     
     ??? note "Genetic programming"
         <div class="meta_for_parser tablespecs"
