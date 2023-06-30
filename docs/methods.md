@@ -3,9 +3,9 @@ hide:
   - navigation
 ---
 
-Symbolic regression methods are grouped into different categories to be most useful.
-Regression-based SR methods predefine a model structure. The linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to learn the models' parameters.
-Expression tree-based algorithms treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises genetic programming, reinforcement learning-based SR, and transformer NN-based SR. The last category includes other techniques, such as physics and mathematics-related methods to solve SR problem.
+Symbolic regression (SR) methods are grouped into different categories to be most useful.<br>
+Regression-based SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.
+Expression tree-based SR methods treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR. The last category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.
 
 ## Regression-based SR
   
