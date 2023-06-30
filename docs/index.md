@@ -16,10 +16,6 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? note "SR Methods"
 
     ## Regression-based
-        <div class="meta_for_parser tablespecs"
-        style="font-size: 1pt;visibility:hidden" markdown>
-        ##  Regression-based
-        </div>
         
     ??? note "Linear approach"
         <div class="meta_for_parser tablespecs"
