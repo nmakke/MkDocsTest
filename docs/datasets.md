@@ -1,7 +1,7 @@
 ---
-hide:
-  - navigation
-  - toc
+  hide:
+    - navigation
+    - toc
 ----
 
 Data sets ($\mathcal{D}$) are categorized into two main groups:
