@@ -16,15 +16,15 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? note "SR Methods"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  SR Methods
+    ##  SR Methods
     </div>
 
-    ## Regression-based
+    ### Regression-based
         
     ??? note "Linear approach"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
-        ###  Linear approach
+        ####  Linear approach
         </div>
           
           * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
