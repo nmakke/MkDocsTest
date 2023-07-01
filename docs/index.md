@@ -35,7 +35,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
           * [Extrapolation and learning equations](https://arxiv.org/pdf/1610.02995.pdf) (EQL)
           * [Learning Equations for Extrapolation and Control](http://proceedings.mlr.press/v80/sahoo18a/sahoo18a.pdf)(EQL_division)
 
-    ## Expression tree-based
+    ### Expression tree-based
     
     ??? note "Genetic programming"
         
@@ -64,7 +64,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
           * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
           * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
       
-    ## Others
+    ### Others SR approaches
     
     ??? note "Physics-inspired"
         <div class="meta_for_parser tablespecs"
@@ -93,7 +93,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? note "SR Datasets"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  SR Datasets
+    ##  SR Datasets
     </div>
     
     Data sets can be categorized into two main groups:
@@ -114,7 +114,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? "SR Applications in physics"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  SR Applications
+    ##  SR Applications
     </div>
 
       * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
