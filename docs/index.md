@@ -13,7 +13,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
 <!-- This living review was proposed in the mentioned review in analogy with [HEP ML Living Review](https://iml-wg.github.io/HEPML-LivingReview/). The goal is to list all research works on symbolic regression, so it is expected that ***this list will continue to evolve***. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer review) to decide. -->
 
-???+ note "SR Methods"
+??? note "SR Methods"
 
     ## Regression-based
         
@@ -22,11 +22,11 @@ This note aims to collect references for state-of-the-art methods of symbolic re
         style="font-size: 1pt;visibility:hidden" markdown>
         ###  Linear approach
         </div>
-    
+          
           * [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/content/pnas/113/15/3932.full.pdf?with-ds=yes&source=post_page---------------------------)[[DOI]](https://www.pnas.org/doi/full/10.1073/pnas.1517384113) (SINDY)
           * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [[DOI]](https://www.pnas.org/doi/10.1073/pnas.1906995116) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
           
-    ???+ note "Non-linear approaches"
+    ??? note "Non-linear approaches"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
         ###  Non-linear approach
