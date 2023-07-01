@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+----
+
 Data sets ($\mathcal{D}$) are categorized into two main groups:
 
 **Synthetic data**  for which the analytical form of the underlying model is known and used to generate data points. <br>
