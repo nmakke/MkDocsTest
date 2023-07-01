@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-**A Living Review of Symbolic Regression**
+# **A Living Review of Symbolic Regression**
 
 Symbolic regression (SR) is a rapidly-growing subfield of machine learning that aims to learn the analytical form of underlying models in data by searching the space of mathematical expressions. A growing interest in SR is taking place in the AI community because it promotes interpretability, which is critical for safe AI applications. 
 
@@ -50,7 +50,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
     ??? note "Reinforcement learning"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
-        ###  Reinforcement learning
+        ####  Reinforcement learning
         </div>
         
           * [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://arxiv.org/abs/1912.04871) [[DOI]](https://openreview.net/forum?id=m5Qsh0kBQG) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)
@@ -64,12 +64,12 @@ This note aims to collect references for state-of-the-art methods of symbolic re
           * [SymbolicGPT: A Generative Transformer Model for Symbolic Regression](https://arxiv.org/pdf/2106.14131.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/mojivalipour/symbolicgpt)
           * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
       
-    ### Others SR approaches
+    ### Other SR approaches
     
     ??? note "Physics-inspired"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
-        ###  Physics-inspired
+        ####  Physics-inspired
         </div>
         
         * [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) [[DOI]](https://www.science.org/doi/10.1126/sciadv.aay2631) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SJ001/AI-Feynman)
@@ -77,7 +77,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
     ??? note "Mathematics-inspired"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
-        ###  Mathematics-inspired
+        ####  Mathematics-inspired
         </div>
         
         * [Demystifying Black-box Models with Symbolic Metamodels](https://www.vanderschaar-lab.com/papers/NIPS2019_DBM.pdf) [[DOI]](https://papers.nips.cc/paper_files/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling)
@@ -85,7 +85,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
     ??? note "Computational approach"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
-        ###  Computational approach
+        ####  Computational approach
         </div>    
     
         * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
@@ -126,7 +126,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? note "Benchmarks"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Benchmarks
+    ##  Benchmarks
     </div>
     
       * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
