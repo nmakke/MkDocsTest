@@ -108,17 +108,12 @@ This note aims to collect references for state-of-the-art methods of symbolic re
     | Category | test | reference | # equations | year |
     | -------- | ------- | ------- | ------- | ----- 
     | Physics-related | Ordinary differential equations <br> Physics equations | [Strogatz repositery](https://williamlacava.com/ode-strogatz/) <br> [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) | 10 <br> 120 | 2011 <br> 2019 |
-    | Mathematics-related | | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
+    | Mathematics-related | nnnnnn | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
     
     **Real-world data** for which underlying model is unknown.<br>
     $\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
-        
-    | Category | reference | # equations | year |
-    | -------- | ------- | ------- | ----- 
-    | Physics-related | [Strogatz repositery](https://williamlacava.com/ode-strogatz/) <br> [Feynman Database](https://space.mit.edu/home/tegmark/aifeynman.html) | 10 <br> 120 | 2011 <br> 2019 |
-    | Mathematics-related | Koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
-    | Real-world problems | [link](https://epistasislab.github.io/pmlb/) | 
-
+    [link](https://epistasislab.github.io/pmlb/)
+  
 
 ??? "SR Applications in physics"
 
