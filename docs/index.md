@@ -16,7 +16,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 ??? note "SR Methods"
     <div class="meta_for_parser tablespecs"
     style="font-size: 1pt;visibility:hidden" markdown>
-    ###  Linear approach
+    ###  SR Methods
     </div>
 
     ## Regression-based
@@ -103,6 +103,10 @@ This note aims to collect references for state-of-the-art methods of symbolic re
         * [Distilling Free-Form Natural Laws from Experimental Data](https://www.science.org/doi/10.1126/science.1165893)
 
 ??? note "SR Datasets"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  SR Datasets
+    </div>
     
     Data sets can be categorized into two main groups:
     
@@ -120,6 +124,10 @@ This note aims to collect references for state-of-the-art methods of symbolic re
   
 
 ??? "SR Applications in physics"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  SR Applications
+    </div>
 
       * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/pdf/2006.11287.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/MilesCranmer/symbolic_deep_learning) (GNN + SR)
       * [Data-driven discovery of coordinates and governing equations](https://www.pnas.org/content/pnas/116/45/22445.full.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/kpchamp/SindyAutoencoders) (SINDY + AE)
@@ -128,7 +136,11 @@ This note aims to collect references for state-of-the-art methods of symbolic re
       * [SYMBA: SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING](https://arxiv.org/pdf/2206.08901.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/ML4SCI/SYMBAHEP)
 
 ??? note "Benchmarks"
-
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  Benchmarks
+    </div>
+    
       * [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/pdf/2107.14351.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/cavalab/srbench)
 
 
