@@ -37,7 +37,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
 
     ### Expression tree-based
     
-    ??? note "Genetic programming"
+    ??? note "Genetic programming (GP)"
         
          * [Eurequa](https://link.springer.com/content/pdf/10.1007/s10710-010-9124-z.pdf)
          * [PySR: High-Performance Symbolic Regression in Python and Julia](https://github.com/MilesCranmer/pysr)
@@ -47,7 +47,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
          * Accuracy in Symbolic Regression [[DOI]](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_8)
          * Semantically-based crossover in genetic programming: application to real-valued symbolic regression [[DOI]](https://link.springer.com/article/10.1007/s10710-010-9121-2)
 
-    ??? note "Reinforcement learning"
+    ??? note "Reinforcement learning (RL)"
         <div class="meta_for_parser tablespecs"
         style="font-size: 1pt;visibility:hidden" markdown>
         ####  Reinforcement learning
@@ -57,7 +57,7 @@ This note aims to collect references for state-of-the-art methods of symbolic re
           * [Symbolic Regression via Neural-Guided Genetic Programming Population Seeding](https://arxiv.org/abs/2111.00053) [[DOI]](https://proceedings.neurips.cc/paper/2021/hash/d073bb8d0c47f317dd39de9c9f004e9d-Abstract.html)[![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/brendenpetersen/deep-symbolic-optimization)
           * [Physical Symbolic Optimization](https://arxiv.org/pdf/2303.03192.pdf) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/WassimTenachi/PhySO/tree/main)
 
-    ??? note "Transformer neural network"
+    ??? note "Transformer neural network (TNN)"
     
           * [End-to-end symbolic regression with transformers](https://arxiv.org/abs/2204.10532) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/facebookresearch/symbolicregression)
           * [Neural Symbolic Regression that Scales](https://arxiv.org/abs/2106.06427) [![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)`code`](https://github.com/SymposiumOrganization/NeuralSymbolicRegressionThatScales)
