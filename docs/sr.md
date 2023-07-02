@@ -5,7 +5,7 @@
 
 # SR Problem definition
 
-Given a data set **$\mathcal{D} =(x_i,f(x_i))_{i=1}^{n}$**, symbolic regression aims to learn the function **$f(x)$** such that **$y_i = f(x_i)$** for all data points.
+Given a data set **$\mathcal{D} =(\mathbf{x}_i,y_i)_{i=1}^{n}$**, symbolic regression aims to learn the functi\mathbf{x}n **$f(x)$** such that *\mathbf{x}$y_i = f(x_i)$** for all data points.
 
 Three components are required to solve the SR problem:
 
