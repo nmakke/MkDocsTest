@@ -3,10 +3,10 @@ hide:
   - navigation
 ---
 
-Symbolic regression (SR) methods are grouped into different categories to be most useful.<br>
-  **Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<br>
-  **Expression tree-based** SR methods treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>
-  **Other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.
+Symbolic regression (SR) methods are grouped into different categories to be most useful.<be>
+<!--**Regression-based** SR methods assume a predefined model structure. In this category, the linear approach formulates the SR problem as a system of linear equations, whereas the non-linear approach relies on multi-layer perceptron (MLP) to solve it. In both cases, the models' parameters are learned.<be>-->
+<!-- ´**Expression tree-based** SR methods treat mathematical equations as unary-binary tree whose internal nodes are mathematical operators (algebraic operators $\{+, -, \times, \div\}$,  analytical functions $\{\cos,\sin,\tan,\exp,\log,\mathrm{sqrt},\mathrm{etc}\}$) and terminal nodes are constants and state variables. This category comprises GP-based SR, RL-based SR, and TNN-based SR.<br>-->
+<!--  **Other SR approaches** category includes methods inspired by other disciplines, such as physics and mathematics, to solve the SR problem.-->
 
 <!-- | Category | Description | Methods | learned model |-->
 | <div style="width:120px">Category</div> | <div style="width:180px">Description</div> | <div style="width:220px">Methods</div> | <div style="width:180px">learned model</div> |
