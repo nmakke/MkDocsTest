@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-Data sets ($\mathcal{D}$) are categorized into two main groups:
+Data sets ($\mathcal{D}$) are categorized into two main groups: [methods](#methods.md)
 
 **Synthetic data**  for which the analytical form of the underlying model is known and used to generate data points. <br>
 Example: $f(x) = 2x^2 + \cos(x)$<br>
