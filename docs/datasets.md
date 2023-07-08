@@ -18,14 +18,3 @@ For $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$. <br>
 | <br> <br> <br> Mathematics | <br> <br> <br> monomials, polynomials, <br> trigonometric, exponential, etc.  | koza <br> Keijer <br> Vladislavleva <br> Nguyen <br> Korns <br> R <br> Jin <br> [Livermore](https://arxiv.org/abs/1912.04871) | 3 <br> 15 <br> 8 <br> 12 <br> 15 <br> 3 <br> 6 <br> 22 | 1994 <br> 2003 <br> 2009 <br> 2011 <br> 2011 <br> 2013 <br> 2019 <br> 2021 |
 | Real-world | Penn Machine Learning Benchmarks (PMLB) | [Ref](https://epistasislab.github.io/pmlb/) | 122 | -|
 
-|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
-| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
-| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
-| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
-| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
-| ^^            |               | 1. second item |              | 1. forth item | + second point |
-
-| New section   |     More      |         Data   | ... - -- --- |||
-| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
-[Compicated table]
-
