@@ -14,3 +14,47 @@ Three components are required to solve the SR problem:
   * an optimization problem to search for the optimal solution ($f^{*}$) over the space of mathematical expressions $\mathcal{F}$ as follows: 
 
    $$f^{*} = \mathrm{argmin}_{f \in\mathcal{F}} l(f(\mathbf{x}))$$
+
+
+| Category | Underlying model   | Reference | Number of equations | year |
+| -------- | ------- | ------- | ------- | ----- |
+| synthetic data | Physics
+| ^^             | Mathematics | 
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Type</th>
+            <th>Benchmarks</th>
+            <th>Test1 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5>Synthetic data</td>
+            <td rowspan=2>Physics-inspired</td>
+            <td>AIFeynman</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>L3 Strogatz</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Mathematics</td>
+            <td>Koza</td>
+        </tr>
+        <tr>
+            <td>Keijer</td>
+        </tr>
+        <tr>
+            <td>Vlasdislavleva</td>
+        </tr>      
+        <tr>
+          <td rowspan=1>Real world data</td>
+          <td>PMLB</td>
+          <td>PMLB</td>
+          <td>final</td>
+        </tr>
+    </tbody>
+</table>
