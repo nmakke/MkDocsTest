@@ -7,10 +7,6 @@ theme:
   name: material
 nav:
     - Home: index.md
-    - About: sr.md
-    - Methods: methods.md
-    - Datasets: datasets.md
-    - Cite: cite.md
     
 plugins:
   - search
